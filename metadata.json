@@ -1,0 +1,6 @@
+{
+  "name": "WeatherGPT",
+  "description": "AI-Powered Weather Intelligence platform featuring interactive decision engines, real-time risk forecasting, agronomic telemetry, disaster civil defense, and indigenous climate twin consensus.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
