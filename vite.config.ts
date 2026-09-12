@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/WeatherGPT/',
+    base: '/WeatherGPT26/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
